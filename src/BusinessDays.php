@@ -2,7 +2,7 @@
 
 namespace Code16\CarbonBusiness;
 
-use Carbon\Carbon;
+use Carbon\CarbonImmutable as Carbon;
 
 class BusinessDays
 {
